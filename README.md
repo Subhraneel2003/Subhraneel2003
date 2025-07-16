@@ -40,7 +40,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Get In Touch
 
-- 📧 Email: [subhraneel.sd.2003@gmail.com]
+- [subhraneel.sd.2003@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/subhraneeldasanalyst/) 
 
 ---
